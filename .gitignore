@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# IDE specific
+.vscode/*
+!.vscode/settings.json
+.idea/
